@@ -25,7 +25,7 @@ $(function() {
 
 		e.preventDefault();
 
-		key = secretTextBox.val().trim();
+		key = "";
 
 		// If there is a key, send it to the server-side
 		// through the socket.io channel with a 'load' event.
