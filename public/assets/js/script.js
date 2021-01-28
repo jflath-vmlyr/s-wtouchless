@@ -25,7 +25,7 @@ $(function() {
 
 		e.preventDefault();
 
-		key = "";
+		key = "kittens";
 
 		// If there is a key, send it to the server-side
 		// through the socket.io channel with a 'load' event.

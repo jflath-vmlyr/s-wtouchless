@@ -55,7 +55,7 @@ body {
 form.login {
 	position: fixed;
 	top: 50%;
-	max-height: 140px;
+	max-height: 250px;
 	max-width: 390px;
 	width: 100%;
 	left: 50%;
